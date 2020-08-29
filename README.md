@@ -1,2 +1,4 @@
-# junit5-tdd-ds
-Data Structures -TDD (Junit5) 
+# Data structures - TDD (JUnit5)
+TDD and Unit Project to demonstrate JUnit5;
+1.  LinkedList DS - TDD & Testing
+
